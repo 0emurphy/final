@@ -6,13 +6,15 @@ h1{
     margin-right: 40px;
     text-align: center;
     font-size: 79px;
-    
+
 }
 .players{
     background-color: blue;
     color: white;
     padding-right: 100px;
-    width: 200px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    width: 150px;
 }
 .info{
     background-color: white
@@ -22,7 +24,11 @@ h1{
     background-color: blue;
     color: white;
     padding-right: 100px;
-    width: 200px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+    width: 140px;
     float:left;
     margin-left: 40px;
+    font-size: 26px;
 }
